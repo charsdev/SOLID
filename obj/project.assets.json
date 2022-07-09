@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Solid\\SolidPrinciples.csproj",
-      "projectName": "SolidPrinciples",
-      "projectPath": "E:\\Solid\\SolidPrinciples.csproj",
+      "projectUniqueName": "E:\\Solid\\SOLID.S.csproj",
+      "projectName": "SOLID.S",
+      "projectPath": "E:\\Solid\\SOLID.S.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "E:\\Solid\\obj\\",
       "projectStyle": "PackageReference",
