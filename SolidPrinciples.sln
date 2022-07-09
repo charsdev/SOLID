@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32602.291
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOLID.S", "SOLID.S.csproj", "{6A5D0B95-0915-436B-B85A-51F2DEA0E44A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOLID.S", "SOLID.S\SOLID.S.csproj", "{7265D4C4-DD98-40F8-9D8C-9CB2A9AC37B0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOLID.O", "SOLID.O\SOLID.O.csproj", "{58C66C48-91C9-4D8E-B9A6-5C988D8540F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6A5D0B95-0915-436B-B85A-51F2DEA0E44A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6A5D0B95-0915-436B-B85A-51F2DEA0E44A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6A5D0B95-0915-436B-B85A-51F2DEA0E44A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6A5D0B95-0915-436B-B85A-51F2DEA0E44A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7265D4C4-DD98-40F8-9D8C-9CB2A9AC37B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7265D4C4-DD98-40F8-9D8C-9CB2A9AC37B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7265D4C4-DD98-40F8-9D8C-9CB2A9AC37B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7265D4C4-DD98-40F8-9D8C-9CB2A9AC37B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58C66C48-91C9-4D8E-B9A6-5C988D8540F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C66C48-91C9-4D8E-B9A6-5C988D8540F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C66C48-91C9-4D8E-B9A6-5C988D8540F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C66C48-91C9-4D8E-B9A6-5C988D8540F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
