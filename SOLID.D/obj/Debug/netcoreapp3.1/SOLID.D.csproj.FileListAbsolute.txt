@@ -1,0 +1,14 @@
+E:\Solid\SOLID.D\obj\Debug\netcoreapp3.1\SOLID.D.csproj.AssemblyReference.cache
+E:\Solid\SOLID.D\obj\Debug\netcoreapp3.1\SOLID.D.GeneratedMSBuildEditorConfig.editorconfig
+E:\Solid\SOLID.D\obj\Debug\netcoreapp3.1\SOLID.D.AssemblyInfoInputs.cache
+E:\Solid\SOLID.D\obj\Debug\netcoreapp3.1\SOLID.D.AssemblyInfo.cs
+E:\Solid\SOLID.D\obj\Debug\netcoreapp3.1\SOLID.D.csproj.CoreCompileInputs.cache
+E:\Solid\SOLID.D\bin\Debug\netcoreapp3.1\SOLID.D.exe
+E:\Solid\SOLID.D\bin\Debug\netcoreapp3.1\SOLID.D.deps.json
+E:\Solid\SOLID.D\bin\Debug\netcoreapp3.1\SOLID.D.runtimeconfig.json
+E:\Solid\SOLID.D\bin\Debug\netcoreapp3.1\SOLID.D.runtimeconfig.dev.json
+E:\Solid\SOLID.D\bin\Debug\netcoreapp3.1\SOLID.D.dll
+E:\Solid\SOLID.D\bin\Debug\netcoreapp3.1\SOLID.D.pdb
+E:\Solid\SOLID.D\obj\Debug\netcoreapp3.1\SOLID.D.dll
+E:\Solid\SOLID.D\obj\Debug\netcoreapp3.1\SOLID.D.pdb
+E:\Solid\SOLID.D\obj\Debug\netcoreapp3.1\SOLID.D.genruntimeconfig.cache

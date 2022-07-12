@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOLID.L", "SOLID.L\SOLID.L.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID.I", "SOLID.I\SOLID.I.csproj", "{1C00975C-A327-45CE-BE27-31742F7F40A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID.D", "SOLID.D\SOLID.D.csproj", "{A9ABA030-F81E-4747-9A79-B9F24BB541C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{1C00975C-A327-45CE-BE27-31742F7F40A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C00975C-A327-45CE-BE27-31742F7F40A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C00975C-A327-45CE-BE27-31742F7F40A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9ABA030-F81E-4747-9A79-B9F24BB541C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9ABA030-F81E-4747-9A79-B9F24BB541C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9ABA030-F81E-4747-9A79-B9F24BB541C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9ABA030-F81E-4747-9A79-B9F24BB541C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
